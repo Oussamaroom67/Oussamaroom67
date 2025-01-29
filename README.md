@@ -1,3 +1,9 @@
+<!-- 🌟 Bannière avec Image de Fond -->
+<p align="center">
+  <img src="https://source.unsplash.com/1600x400/?technology,code" alt="Banner" />
+</p>
+
+<!-- 🏆 Titre Animé -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=500&height=60&lines=🌙+Full-Stack+Developer+🌙;Welcome+to+My+Digital+Space" />
 </h1>
