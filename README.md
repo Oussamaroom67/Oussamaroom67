@@ -1,7 +1,7 @@
 
 <!-- 🏆 Titre Animé -->
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=500&height=60&lines=🌙+Full-Stack+Developer+🌙;Data+Scientist+💡+&+AI+Engineer+🤖;Welcome+to+My+Digital+Space" />
+<img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=800&height=60&lines=🌙+Full-Stack+Developer+🌙;Data+Scientist+💡+and+AI+Engineer+🤖;Welcome+to+My+Digital+Space" />
 </h1>
 
 # 🌙 Welcome to Room 67
