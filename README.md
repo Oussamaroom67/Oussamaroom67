@@ -7,10 +7,22 @@ I'm a **Full-Stack Developer** passionate about technology and innovation. I spe
 
 ## 🧐 Technologies & Tools
 
-### 🎨 Frontend Development
+### 🖥️ Languages
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
   <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=r" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=matlab" />
+  <img src="https://skillicons.dev/icons?i=php" />
+  
+</p>
+
+### 🎨 Frontend Development
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
@@ -27,9 +39,9 @@ I'm a **Full-Stack Developer** passionate about technology and innovation. I spe
   <img src="https://skillicons.dev/icons?i=express" />
   <img src="https://skillicons.dev/icons?i=nestjs" />
   <img src="https://skillicons.dev/icons?i=dotnet" />
-  <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=flask" />
   <img src="https://skillicons.dev/icons?i=cs" />
+    <img src="https://skillicons.dev/icons?i=php" />
 
 </p>
 
@@ -37,19 +49,15 @@ I'm a **Full-Stack Developer** passionate about technology and innovation. I spe
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" />
   <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://skillicons.dev/icons?i=sqlserver" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white&borderColor=black" />
+
 </p>
 
 ### 📊 Data Science & AI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=r" />
   <img src="https://skillicons.dev/icons?i=sklearn" />
-  <img src="https://skillicons.dev/icons?i=pandas" />
-  <img src="https://skillicons.dev/icons?i=numpy" />
-  <img src="https://skillicons.dev/icons?i=seaborn" />
-  <img src="https://skillicons.dev/icons?i=matplotlib" />
+
 </p>
 
 ### 🛠️ Tools & Package Managers
@@ -59,11 +67,10 @@ I'm a **Full-Stack Developer** passionate about technology and innovation. I spe
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=linux" />
   <img src="https://skillicons.dev/icons?i=powershell" />
+  <img src="https://skillicons.dev/icons?i=qt" />
   <img src="https://skillicons.dev/icons?i=vs" />
   <img src="https://skillicons.dev/icons?i=idea" />
-  <img src="https://skillicons.dev/icons?i=rstudio" />
   <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ## 📊 GitHub Stats
