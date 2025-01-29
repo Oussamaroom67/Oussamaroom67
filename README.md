@@ -57,6 +57,7 @@ I'm a **Full-Stack Developer** passionate about technology and innovation. I spe
 ### 📊 Data Science & AI
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
 
 </p>
 
@@ -65,13 +66,27 @@ I'm a **Full-Stack Developer** passionate about technology and innovation. I spe
   <img src="https://skillicons.dev/icons?i=npm" />
   <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=regex" />
+  <img src="https://skillicons.dev/icons?i=bash" />
   <img src="https://skillicons.dev/icons?i=powershell" />
-  <img src="https://skillicons.dev/icons?i=qt" />
-  <img src="https://skillicons.dev/icons?i=vs" />
-  <img src="https://skillicons.dev/icons?i=idea" />
-  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
+
+### 🖥️ Development Environments
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=qt" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=idea" />
+    <img src="https://skillicons.dev/icons?i=vs" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  
+</p>
+
+### 🐧 Operating Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=debian" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" />
+  <img src="https://skillicons.dev/icons?i=windows" />
 
 ## 📊 GitHub Stats
 <p align="center">
