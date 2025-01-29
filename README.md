@@ -1,16 +1,14 @@
-<!-- 🌟 Bannière avec Image de Fond -->
-<p align="center">
-  <img src="https://source.unsplash.com/1600x400/?technology,code" alt="Banner" />
-</p>
 
 <!-- 🏆 Titre Animé -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=500&height=60&lines=🌙+Full-Stack+Developer+🌙;Welcome+to+My+Digital+Space" />
+<img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=500&height=60&lines=🌙+Full-Stack+Developer+🌙;Data+Scientist+💡+&+AI+Engineer+🤖;Welcome+to+My+Digital+Space" />
 </h1>
 
-# 🌙 Welcome to 67
+# 🌙 Welcome to Room 67
 
-### _"In this chamber, where the mysteries reside..."_
+### _"In this sacred chamber, where code whispers and innovation resides..."_  
+#### ✨ — Room67, the Developer of 🌐 Digital Realms 💻
+
 
 ## 🚀 About Me
 I'm a **Full-Stack Developer** passionate about technology and innovation. I specialize in web development, backend systems, and data analysis. Currently, I am a student at **ENSA Safi**, continuously learning and evolving in the tech field.
