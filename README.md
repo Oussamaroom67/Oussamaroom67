@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <h1>🌙 Welcome to Room 67</h1>
+  <h1>🚪 Welcome to Room 67</h1>
   <h3>"In this sacred chamber, where code whispers and innovation resides..."</h3>
   <h4>✨ — Room67, the Developer of 🌐 Digital Realms 💻</h4>
 </div>
