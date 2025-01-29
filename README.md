@@ -27,7 +27,7 @@ I'm a **Full-Stack Developer** passionate about technology and innovation. I spe
   <img src="https://skillicons.dev/icons?i=express" />
   <img src="https://skillicons.dev/icons?i=nestjs" />
   <img src="https://skillicons.dev/icons?i=dotnet" />
-  <img src="https://skillicons.dev/icons?i=aspnet" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=flask" />
 </p>
