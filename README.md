@@ -6,8 +6,11 @@
 
 # 🌙 Welcome to Room 67
 
-### _"In this sacred chamber, where code whispers and innovation resides..."_  
-#### ✨ — Room67, the Developer of 🌐 Digital Realms 💻
+<div align="center">
+  <h3>"In this sacred chamber, where code whispers and innovation resides..."</h3>
+  <h4>✨ — Room67, the Developer of 🌐 Digital Realms 💻</h4>
+</div>
+
 
 
 ## 🚀 About Me
