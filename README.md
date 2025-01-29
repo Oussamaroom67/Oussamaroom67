@@ -109,6 +109,7 @@ I'm a **Full-Stack Developer** passionate about technology and innovation. I spe
 ```js
 console.log("Code, Eat, Sleep, Repeat! ☕")
 ```
+<h3>GitHub Contributions Tracker</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oussamaroom67/Oussamaroom67/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oussamaroom67/Oussamaroom67/output/github-snake.svg" />
