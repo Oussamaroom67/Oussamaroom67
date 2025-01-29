@@ -60,17 +60,17 @@ I'm a **Full-Stack Developer** passionate about technology and innovation. I spe
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OussamaNouhar&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Oussamaroom67&show_icons=true&theme=radical" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaNouhar&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oussamaroom67&layout=compact&theme=radical" />
 </p>
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/oussama-nouhar">
+  <a href="www.linkedin.com/in/oussama-nouhar-3156132aa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/OussamaNouhar">
+  <a href="https://github.com/Oussamaroom67">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
