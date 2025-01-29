@@ -58,7 +58,10 @@ I'm a **Full-Stack Developer** passionate about technology and innovation. I spe
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sklearn" />
   <img src="https://skillicons.dev/icons?i=tensorflow" />
-
+    <img src="https://img.icons8.com/color/48/000000/pandas.png" />
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" />
+  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" />
+  <img src="https://img.icons8.com/color/48/000000/seaborn.png" />
 </p>
 
 ### 🛠️ Tools & Package Managers
