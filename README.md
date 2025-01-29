@@ -76,7 +76,7 @@ I'm a **Full-Stack Developer** passionate about technology and innovation. I spe
   <img src="https://skillicons.dev/icons?i=qt" />
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=idea" />
-    <img src="https://skillicons.dev/icons?i=vs" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" />
   <img src="https://skillicons.dev/icons?i=figma" />
   
 </p>
