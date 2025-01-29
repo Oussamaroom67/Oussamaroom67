@@ -49,8 +49,8 @@ I'm a **Full-Stack Developer** passionate about technology and innovation. I spe
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" />
   <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=sqlserver" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white&borderColor=black" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" />
 
 </p>
 
