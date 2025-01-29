@@ -67,7 +67,7 @@ I'm a **Full-Stack Developer** passionate about technology and innovation. I spe
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/oussama-nouhar-3156132aa">
+  <a href="https://www.linkedin.com/in/oussama-nouhar-3156132aa" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Oussamaroom67">
