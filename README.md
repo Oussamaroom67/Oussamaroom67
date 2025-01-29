@@ -1,6 +1,17 @@
-# 🌙 Welcome to 67
+<h1 align="center">
+  🌙 <span style="display:inline-block; animation: float 3s ease-in-out infinite;">Full-Stack Developer</span> 🌙
+</h1>
 
-### _"In this chamber, where the mysteries reside..."_
+<style>
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+</style>
+
+## ✨ Welcome to My Digital Space
+
+> _"In this chamber, where the mysteries reside, innovation thrives..."_
 
 ## 🚀 About Me
 I'm a **Full-Stack Developer** passionate about technology and innovation. I specialize in web development, backend systems, and data analysis. Currently, I am a student at **ENSA Safi**, continuously learning and evolving in the tech field.
