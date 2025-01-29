@@ -50,7 +50,7 @@ I'm a **Full-Stack Developer** passionate about technology and innovation. I spe
   <img src="https://skillicons.dev/icons?i=mongodb" />
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
-  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" />
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" /
 
 </p>
 
