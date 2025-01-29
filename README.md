@@ -2,12 +2,10 @@
 
 ### _"In this chamber, where the mysteries reside..."_
 
-
-
 ## 🚀 About Me
-I'm a **Full-Stack Developer** passionate about technology and innovation. I specialize in web development, backend systems, and data analysis.
+I'm a **Full-Stack Developer** passionate about technology and innovation. I specialize in web development, backend systems, and data analysis. Currently, I am a student at **ENSA Safi**, continuously learning and evolving in the tech field.
 
-## 🛠 Technologies & Tools
+## 🧐 Technologies & Tools
 
 ### 🎨 Frontend Development
 <p align="center">
@@ -17,6 +15,10 @@ I'm a **Full-Stack Developer** passionate about technology and innovation. I spe
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
 ### ⚙️ Backend Development
@@ -26,20 +28,34 @@ I'm a **Full-Stack Developer** passionate about technology and innovation. I spe
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swing-5382a1?style=for-the-badge&logo=swing&logoColor=white" />
 </p>
 
-### 🗄️ Databases
+### 📂 Databases
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
-### 🎭 Animated Elements
+### 📊 Data Science & AI
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&width=435&lines=Full+Stack+Developer;MERN+%26+.NET+Specialist;AI+%26+Data+Analysis" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+</p>
+
+### 🛠️ Tools & Package Managers
+<p align="center">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=pip&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ## 📊 GitHub Stats
@@ -63,12 +79,3 @@ I'm a **Full-Stack Developer** passionate about technology and innovation. I spe
 ```js
 console.log("Code, Eat, Sleep, Repeat! ☕")
 ```
-
----
-
-### 🎨 Want More Customization?
-- Add a **GIF** in the banner
-- Use **GitHub Actions** to auto-update your README
-- Show **latest commits/projects** dynamically
-- Implement **Dark Mode** styling
-
