@@ -20,6 +20,7 @@ I'm a **Full-Stack Developer** passionate about technology and innovation. I spe
 
 ### 🖥️ Languages
 <p align="center">
+    <img src="https://skillicons.dev/icons?i=cs" />
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=cpp" />
   <img src="https://skillicons.dev/icons?i=js" />
