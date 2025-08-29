@@ -9,6 +9,10 @@
   <h3>"In this sacred chamber, where code whispers and innovation resides..."</h3>
   <h4>✨ — Room67, the Developer of 🌐 Digital Realms 💻</h4>
 </div>
+<!-- 👁️ Compteur de vues de profil -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Oussamaroom67&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 
 
